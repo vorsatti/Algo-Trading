@@ -6,4 +6,4 @@ You can find several backtesting strategies, the first one uses the Envelopes st
 
 The Envelope is the only one profitable so far. Below. you can see a graph of the results:
 
-![Equity Curve](Equity_Curve_Envelopes_Strategy.jpg)
+![Equity Curve](Equity_Curve_Envelopes_Strategy.png)
